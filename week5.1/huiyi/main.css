@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+header {
+    padding: 3%; 
+}
+
+input {
+    width: 200px;
+    height: 45px; 
+}
+
+li {
+    list-style-type: none;
+}
+
+button {
+    border: 1px solid grey;
+    background-color: white;
+    color: black;
+    padding: 7px; 
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+.box {
+    display: inline-block;
+    border: 1px solid black; 
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.item-wrapper {
+    background-color: aqua;
+    padding: 3%; 
+    text-align: center;
+    margin: auto;
+}
